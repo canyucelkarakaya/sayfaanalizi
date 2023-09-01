@@ -1,5 +1,5 @@
 pip install matplotlip
-pip install pandas
+!pip install pandas
 
 import streamlit as st
 import pandas as pd
